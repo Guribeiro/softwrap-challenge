@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="softwrap" src=".github/logo.svg" width="200px" />
+	<img alt="softwrap" src=".github/softwrap.png" />
 </h1>
 
 
