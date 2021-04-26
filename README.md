@@ -2,6 +2,7 @@
 	<img alt="softwrap" src=".github/softwrap.png" />
 </h1>
 
+## [🌌 See the project prototype](https://www.figma.com/file/oxmKlX2Q6VjgJBlXjyVI8J/Softwrap-challenge?node-id=0%3A1)
 
 Here are the links to repositories
 
